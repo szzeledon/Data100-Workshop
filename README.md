@@ -1,4 +1,8 @@
-# workshop3
+# Data Science Web Page
+
+Zak Zeledon
+
+# Reading Responses
 [Blumenstock Response](https://szzeledon.github.io/workshop3/Blumenstock)
 
 [Lloyd Response](https://github.com/szzeledon/workshop3/blob/master/T.%20Lloyd%20Response)
