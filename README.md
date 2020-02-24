@@ -1,5 +1,5 @@
 # workshop3
-[Blumenstock Response](https://szzeledon.github.io/workshop3/blob/master/Blumenstock)
+[Blumenstock Response](https://szzeledon.github.io/workshop3/Blumenstock)
 
 [Lloyd Response](https://github.com/szzeledon/workshop3/blob/master/T.%20Lloyd%20Response)
 
