@@ -10,4 +10,4 @@ Zak Zeledon
 [Wardrop Response](https://szzeledon.github.io/Data100-Workshop/Wardrop%20Response)
 
 # Projects 
-[Project 1] (https://szzeledon.github.io/Data100-Workshop/Project1_Azerbaijan)
+[Project 1](https://szzeledon.github.io/Data100-Workshop/Project1%Azerbaijan) 
