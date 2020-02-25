@@ -11,4 +11,4 @@ The plot above depicts the many subdivisions of Azerbaijan, a small, densely pop
 
 ## Bar Graph of Population Density and Administrative Subdivisions
 
-![] (azeri
+![] (https://szzeledon.github.io/Data100-Workshop/Azerbaijan_2019.png)
