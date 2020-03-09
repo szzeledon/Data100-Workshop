@@ -14,4 +14,4 @@ Zak Zeledon
 # Projects 
 [Project 1](https://szzeledon.github.io/Data100-Workshop/Project1_Azerbaijan) 
 
-[Project 2]
+[Project 2](https://github.com/szzeledon/Data100-Workshop/blob/master/Project%202%20(Part%201).md)
