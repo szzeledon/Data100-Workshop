@@ -11,6 +11,8 @@ Zak Zeledon
 
 [Stevens Response](https://szzeledon/github.io/Data100-Workshop/Stevens%20Response)
 
+[Nieves et al. Response](https://szzeledon/github.io/Data100-Workshop/Nieves%20et%20al.)
+
 # Projects 
 [Project 1](https://szzeledon.github.io/Data100-Workshop/Project1_Azerbaijan) 
 
