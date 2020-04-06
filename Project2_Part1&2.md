@@ -6,7 +6,7 @@ April 5th, 2020
 
 ## Part 1: Acquiring, Modifying and Describing the Data
 
-![](https://github.com/szzeledon/Data100-Workshop/blob/master/Azeri_Project2_Plot1.png)
+![](https://szzeledon.github.io/Data100-Workshop/Azeri_Project2_Plot1.png)
 
 ![](https://github.com/szzeledon/Data100-Workshop/blob/master/Azeri_Project2_Plot2.png)
 
