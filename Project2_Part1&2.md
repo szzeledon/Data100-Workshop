@@ -24,7 +24,7 @@ This residual model contains night time lights, urban cover, and bare cover as i
 
 ## Part 2: Modeling & Predicting Spatial Values
 
-![](https://szzeledon.github.io/Data100-Workshop/Project2Part2.png)
+![](https://szzeledon.github.io/Data100-Workshop/Azerbaijan_Project2Part2.png)
 
 The plot above is a basic map showing the density of the population in Azerbaijan which is located near the capital city of Baku on the coast. 
 
