@@ -14,8 +14,6 @@ The plot above depicts the many subdivisions of Azerbaijan, a small, densely pop
 
 ![](https://szzeledon.github.io/Data100-Workshop/Azerbaijan_2019.png)
 
-![](https://github.com/szzeledon/Data100-Workshop/blob/master/Azeri_Project2_Plot2.png)
-
 The bar graph above was no simple task for me. I made it through about half of the instructions when the bar graph became noncooperative to the commands I was sending R. The major complication was that my data was split between an adm1 and an adm2 and thus would over complicate my data (pictured below). 
 
 ![](https://szzeledon.github.io/Data100-Workshop/Azerbaijan_BadPlot.png)
