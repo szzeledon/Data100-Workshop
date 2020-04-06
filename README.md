@@ -17,5 +17,3 @@ Zak Zeledon
 [Project 1](https://szzeledon.github.io/Data100-Workshop/Project1_Azerbaijan) 
 
 [Project 2](https://szzeledon/github.io/Data100-Workshop/Project2%Part1&2)
-
-
