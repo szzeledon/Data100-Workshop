@@ -45,9 +45,3 @@ to take a closer look at the marginal error, I subsetted the city of Baku to get
 Finally, I overlayed a city map of Baku on the difference plot.
 
 I encountered many difficulties while constructing these plots, and it’s fair to say it took me much longer than one would have hoped for. I’ll cherish the late nights of deciphering lines of code with only the scorching heat of my MacBook keeping me awake. Being new to all this material, I had many triumphs when I was able to resolve an issue all on my lonesome. Yet, without the help of professor Fraizer, I truly would be lost. Typically, my plan of attack looked like this: follow along on Prof. Fraizer’s marvelous website, get stuck, step away for a moment to think, try again, try something different, panic, write out a cry for help on slack, and before I would press send, I would try one more time. It was usually a 50/50 on whether I was able to get it or not, but I digress. Through this, I learned how to predict spatial values across the landscape of Azerbaijan and also the margin of error for that prediction.  Beyond that, I learned the meaning of persistence. 
-
-
-
-
-
-
