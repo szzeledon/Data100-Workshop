@@ -38,7 +38,7 @@ This first plot shows the magnitude and direction of error from the predicted va
 
 ![](https://szzeledon.github.io/Data100-Workshop/Project2_Part2_Plot3.png) 
 
-to take a closer look at the marginal error, I subsetted the city of Baku to get a more detailed scale. 
+I subsetted the city of Baku to get a more detailed scale and to get a closer look at the marginal error.
 
 ![](https://szzeledon.github.io/Data100-Workshop/Project2_Part2_PlotMapView1.png)
 
