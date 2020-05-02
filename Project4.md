@@ -14,7 +14,7 @@ The Barda district is a flat valley-like area that has a total population of aro
 They aren’t any challenging natural borders for infrastructure to be hindered so I would assume that transportation wouldn’t be such an issue. From my plotting of primary and secondary roads, it’s clear that they all connect to those greater urban areas in some manner. 
 ### How has topography appeared to have impacted the location of health care facilities?
 After trying two different data sources, I was only able to have one health care facility, a hospital, plotted on my graph. After a quick google search, I found that there are many more hospitals just in the city alone. However, the one hospital I could plot is on a seconday road.  
-#### Has producing your three-dimensional map resulted in an interpretation that is different from your previous analysis?
+### Has producing your three-dimensional map resulted in an interpretation that is different from your previous analysis?
 Not necessarily, no. 
 
 ![](https://szzeledon.github.io/Data100-Workshop/Barda_topo_Plot5.png)
