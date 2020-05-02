@@ -22,4 +22,4 @@ Zak Zeledon
 
 [Project 4](https://szzeledon.github.io/Data100-Workshop/Project4)
 
-### [Final Individual Deliverable]( )
+### [Final Individual Deliverable](https://szzeledon.github.io/Data100-Workshop/Final_Project)
