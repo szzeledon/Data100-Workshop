@@ -2,7 +2,7 @@
 
 Zak Zeledon
 
-April 13, 2020
+May 13, 2020
 
 ## Political Districts and Subdivisions of Azerbaijan
 
@@ -13,4 +13,6 @@ In total, there are ten administrative subdivisions of Azerbaijan: Absheron, Gan
 In the plot above, the names of the ten districts are in a larger font. In the gray-outlined areas, there are the name of the seventy-eight subdivisions of each district. The spatial plot below depicts the population density across each subdivision in Azerbaijan. As indicated by the bright red, the subdistrict where Baku is located has the highest population density. The second highest is the subdistrict right next to it. This most likely means that many people will live outside of the city, whether it be for a lower cost of living or something like that, and commute into the capital for work. 
 
 ![](https://szzeledon.github.io/Data100-Workshop/azeri_pop19.png)
+
+------
 
