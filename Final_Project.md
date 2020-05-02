@@ -16,3 +16,20 @@ In the plot above, the names of the ten districts are in a larger font. In the g
 
 ------
 
+## Population of Azerbaijan
+
+As mentioned above, the Absheron district has the largest population of 2,613,300, and Baku city itself has 2,236,000 people. The lowest population is in the Kalbajar-Lachin district with only 231,300 people over 6,4000 km². The histogram plot listed below depicts the population density in Azerbaijan in 2019.
+
+![](https://szzeledon.github.io/Data100-Workshop/Azeri_Project2_Plot3.png)
+
+The plot below is a residual model that contains data of nighttime lights, urban cover, and bare cover as independent variables and pop19 as the dependent variable. 
+
+![](https://szzeledon.github.io/Data100-Workshop/Project2_Part1_Plot5.png)
+
+Getting a closer look at Baku city, the graphs below show some margins of errors when predicting the population density. Below is a subsetted margin or error map of Baku city, where the only margin of error was located throughout the whole country. The green indicated 0 errors while the redder the map gets, the higher amount of predictability error. 
+
+![](https://szzeledon.github.io/Data100-Workshop/Project2_Part2_Plot2.png)
+
+![](https://szzeledon.github.io/Data100-Workshop/Project2_Part2_PlotMapView1.png)
+
+-----
