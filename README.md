@@ -20,6 +20,6 @@ Zak Zeledon
 
 [Project 3](https://szzeledon.github.io/Data100-Workshop/Project3)
 
-[Project 4]()
+[Project 4](https://szzeledon.github.io/Data100-Workshop/Project4)
 
 ### [Final Individual Deliverable]()
